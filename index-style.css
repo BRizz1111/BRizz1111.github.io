@@ -9,14 +9,16 @@
 }
 
 body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  border-top: 20px solid #282863;
-  border-bottom: 20px solid #282863;
+  background: #282863;
 }
       
 main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-top: 20px solid #282863;
+  border-bottom: 20px solid #282863;
   text-align: center;
 }
 
