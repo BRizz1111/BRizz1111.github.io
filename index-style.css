@@ -32,11 +32,6 @@ main {
   color: #AE3C37;
 }
 
-footer {
-  padding: 0.5rem;
-  background-color: #282863;
-}
-
 #copyright {
   position: fixed;
   bottom: 0;
@@ -46,7 +41,7 @@ footer {
   font-family: "Dancing Script", cursive;
   font-size: 25px;
   color: #6d98ed;
-  cursor: pointer;
+  background-color: #282863;
 }
 
 @media (max-width: 680px) {
