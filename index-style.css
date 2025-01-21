@@ -36,8 +36,11 @@ footer {
 }
 
 #copyright {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   display: inline-block;
-  margin-left: 1rem;
+  padding: 1rem;
   font-family: "Dancing Script", cursive;
   font-size: 25px;
   color: #6d98ed;
