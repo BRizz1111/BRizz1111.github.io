@@ -17,6 +17,8 @@ body {
       
 main {
   text-align: center;
+  border-top: 5px solid #282863;
+  border-bottom: 6px solid #282863;
 }
 
 #daily-update {
@@ -27,10 +29,7 @@ main {
   font-size: 60px;
   text-decoration: underline;
   text-transform: uppercase;
-  color: #6d98ed;
-  background-color: #293F8F;
-  border-top: 5px solid #282863;
-  border-bottom: 6px solid #282863;
+  color: white;
 }
 
 
