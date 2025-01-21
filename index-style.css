@@ -30,7 +30,19 @@ main {
   color: #AE3C37;
 }
 
+footer {
+  padding: 0.5rem;
+  background-color: #293F8F;
+}
 
+#copyright {
+  display: inline-block;
+  margin-left: 1rem;
+  font-family: "Dancing Script", cursive;
+  font-size: 25px;
+  color: #6d98ed;
+  cursor: pointer;
+}
 
 @media (max-width: 680px) {
 }
