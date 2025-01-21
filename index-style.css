@@ -22,10 +22,9 @@ main {
 
 #daily-update {
   text-align: center;
-  padding-top: 4rem;
-  padding-bottom: 1.5rem;
+  padding: 4rem;
   font-family: "Truculenta", sans-serif;
-  font-size: 60px;
+  font-size: 45px;
   color: #AE3C37;
 }
 
