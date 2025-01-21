@@ -12,13 +12,12 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: #293F8F
+  border-top: 5px solid #282863;
+  border-bottom: 6px solid #282863;
 }
       
 main {
   text-align: center;
-  border-top: 5px solid #282863;
-  border-bottom: 6px solid #282863;
 }
 
 #daily-update {
